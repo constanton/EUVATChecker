@@ -1,5 +1,5 @@
 # EUVATChecker
-A program that checks if VAT numbers in an Excel spreadsheet are valid and active using a command line program. 
+A tiny program that checks if VAT numbers in an Excel spreadsheet are valid and active using a command line program. 
 
 ## Prerequisites 
 To build this code you need the [vies-dotnet](https://github.com/zapadi/vies-dotnet/tree/master) library and the [OpenXML-SDK](https://github.com/dotnet/Open-XML-SDK) library.
