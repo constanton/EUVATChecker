@@ -15,6 +15,9 @@ Create an xlsx file with an Excel spreadsheet making sure the VAT numbers are in
 | 3   | DK99999999          |Raveonettes & Co. ApS | She owns the streets |
 
 ### Step 2
-Place the xlsx in the same folder as the .exe of the EUVATChecker and then execute the .exe.
+Save the Excel file as vat.xlsx
+
+### Step 3
+Place the vat.xlsx file in the same folder as the .exe of the EUVATChecker and then execute the .exe.
 
 The code is in C# as the library used was using the .NET framework.
