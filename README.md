@@ -20,4 +20,10 @@ Save the Excel file as vat.xlsx
 ### Step 3
 Place the vat.xlsx file in the same folder as the .exe of the EUVATChecker and then execute the .exe.
 
-The code is in C# as the library used was using the .NET framework.
+### Good to know
+* The program might fail if the EU VIES server is busy.
+* If it's not busy then you might be able to even use 2000 rows in the spreadsheet.
+* The code is in C# as the library used was using the .NET framework. If anyone has found a more recent Python library, please let me know.
+
+### Licence
+The code is under the MIT License.
