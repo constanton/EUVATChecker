@@ -3,7 +3,7 @@ A tiny CLI program that checks if EU VAT numbers listed in an Excel spreadsheet 
 
 ## Prerequisites 
 To build this code you need the [vies-dotnet](https://github.com/zapadi/vies-dotnet/tree/master) library and the [OpenXML-SDK](https://github.com/dotnet/Open-XML-SDK) library.
-Both are available in Visual Studio via NuGet Package manager (use **vies-dotnet-api** and **DocumentFormat.OpenXml**).
+Both are available in Visual Studio via NuGet Package manager (use [vies-dotnet-api](https://www.nuget.org/packages/vies-dotnet-api) and [DocumentFormat.OpenXml](https://www.nuget.org/packages/DocumentFormat.OpenXml).
 
 ## How to use (once the code is compiled)
 ### Step 1
